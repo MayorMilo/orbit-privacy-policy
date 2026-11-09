@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="30.59 39.12 193.76 193.76" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Hand-drawn closed mailbox</title>
+  <g stroke="#000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+  <path fill="#000" d="M130 162C129 181 130 206 131 221C135 224 145 224 149 220L148 162Z"/>
+  <path d="M85 67C112 65 148 65 171 67C194 69 207 84 207 108L206 155C206 159 203 162 198 162L86 162"/>
+
+  <path d="M49 158C47 144 48 123 49 107C50 81 63 67 84 67C106 67 120 83 121 108L122 157C121 162 115 163 109 163L60 163C54 163 50 162 49 158Z"/>
+  <path d="M72 94C79 92 89 92 97 94" stroke-width="8"/>
+  <path fill="#000" stroke="none" d="M76 135C76 131 83 129 89 131C94 133 94 139 90 142C84 145 76 142 76 135Z"/>
+
+  <path d="M169 123C168 102 169 78 169 49"/>
+  <path fill="#000" stroke="none" d="M165 47C177 44 190 45 199 47C202 52 202 65 199 70C189 73 177 70 168 71Z"/>
+  <path fill="#000" stroke="none" d="M163 123C163 115 175 114 176 122C177 131 164 132 163 123Z"/>
+  </g>
+</svg>

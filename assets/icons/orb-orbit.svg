@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="36.19 25.25 193.76 193.76" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Orb in orbit</title>
+  <defs>
+    <mask id="orbit-gap" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+      <path fill="#fff" d="M0 0H256V256H0Z"/>
+      <path fill="#000" d="M183 94C229 94 229 164 183 164C137 164 137 94 183 94Z"/>
+    </mask>
+  </defs>
+  <path d="M57 202C33 183 63 129 109 83C151 41 194 22 210 41C234 69 194 132 145 175C106 209 73 221 57 202Z" stroke="#000" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 14" mask="url(#orbit-gap)"/>
+  <path fill="#000" fill-rule="evenodd" d="M182 94C202 93 219 109 219 129C220 150 204 166 183 167C162 168 147 152 147 131C146 110 162 95 182 94ZM183 102C166 102 154 114 155 131C155 148 167 160 183 159C200 159 212 147 211 130C211 113 200 102 183 102Z"/>
+</svg>
